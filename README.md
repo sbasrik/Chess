@@ -1,1 +1,1 @@
-# Traditional Chess game written in Java
+# Chess game written in Java
